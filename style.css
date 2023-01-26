@@ -42,7 +42,7 @@ body {
 ul {
   list-style: none;
   padding: 0px;
-  margin: 0px;
+  margin: 0px;1
 }
 
 li {
@@ -54,11 +54,13 @@ a {
   color: white;
   font-size: 18px;
   border: 1px solid transparent;
+  white-space: nowrap;
 }
 
 a:hover{
   border: 1px #eee solid;
   border-radius: 5px;
+  
 }
 
 .page-center{
